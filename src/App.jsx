@@ -1,9 +1,9 @@
-import React from "react";
-import HooksCombined from "./components/HooksCombined";
-
+import React, { useContext } from "react";
+import UseReducer from "./components/UseReducer";
 function App() {
+  
   return <div className="centered">
-    <HooksCombined />
+    <UseReducer />
   </div>
 }
 
