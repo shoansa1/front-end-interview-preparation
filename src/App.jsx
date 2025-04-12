@@ -1,9 +1,9 @@
 import React from "react";
-import UseRefExample from "./components/UseRefExample";
+import HooksCombined from "./components/HooksCombined";
 
 function App() {
   return <div className="centered">
-    <UseRefExample />
+    <HooksCombined />
   </div>
 }
 
