@@ -1,7 +1,10 @@
 import React from "react";
-import UseEffectHook from "./components/UseEffectHook";
+import UseRefExample from "./components/UseRefExample";
+
 function App() {
-  return <><UseEffectHook /></>;
+  return <div className="centered">
+    <UseRefExample />
+  </div>
 }
 
 export default App;
