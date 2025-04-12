@@ -1,7 +1,7 @@
 import React from "react";
-import Hooks from "./components/Hooks";
+import UseEffectHook from "./components/UseEffectHook";
 function App() {
-  return <><Hooks /></>;
+  return <><UseEffectHook /></>;
 }
 
 export default App;

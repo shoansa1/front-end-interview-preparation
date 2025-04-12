@@ -1,3 +1,5 @@
+import styled from "styled-components"
+
 const withLogin = (WrappedCompponet) =>{
     const login = () =>{
 
