@@ -6,7 +6,6 @@ const Hooks = () => {
     const increament = () =>{
         setCount((prev) => prev + 1);
         setCount((prev) => prev + 1);
-        setCount((prev) => prev + 1);
     }
   return (
     <div>
