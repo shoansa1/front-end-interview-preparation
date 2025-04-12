@@ -1,0 +1,8 @@
+// React
+1. What is React ? 
+2. What is JSX ? why it is used? 
+ - JSX (Javascript XML)
+3. What is React component
+   - it returns js , it can be class or function
+4. What is difference state and props? 
+ state - used to store the data in the component
