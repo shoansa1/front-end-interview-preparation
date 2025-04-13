@@ -1,9 +1,9 @@
 import React, { useContext } from "react";
-import UseReducer from "./components/UseReducer";
+import Memoization from "./components/Memoization";
 function App() {
   
   return <div className="centered">
-    <UseReducer />
+    <Memoization />
   </div>
 }
 
