@@ -6,7 +6,6 @@ const Hooks = () => {
     const increament = () =>{
         setCount((prev) => prev + 1);
         setCount((prev) => prev + 1);
-        setCount((prev) => prev + 1);
     }
   return (
     <div>
@@ -17,3 +16,6 @@ const Hooks = () => {
 }
 
 export default Hooks;
+
+
+// this is from first commit
